@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soham-Hait
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Front-End Web Development.
+- 👀 I’m interested in Web Development and DEVOPs.
+- 🌱 I’m currently learning Front-End Web Development and Cloud Computing.
 - 💞️ I’m looking to collaborate on any fun projects that can help me learn new stuff.
 
 <!---
