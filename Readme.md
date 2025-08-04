@@ -34,9 +34,9 @@ Jupyter Notebooks, Anaconda, Google Colab, Docker, Apache, MS Azure, Vercel
 
 Feel free to connect or collaborate on projects. Let’s build something amazing together!
 
-📧 Email: *[Add your email here]*  
-🌐 Portfolio: *[Add your personal website or portfolio link]*  
-🔗 LinkedIn: *[Add LinkedIn profile]*
+📧 Email: *[soham.hait.work@gmail.com]*  
+🌐 Portfolio: *[https://portfolio-azure-zeta-16.vercel.app/]*  
+🔗 LinkedIn: *[https://www.linkedin.com/in/soham-hait-8baa59268/]*
 
 ---
 
